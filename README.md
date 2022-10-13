@@ -8,7 +8,6 @@
   <img align="left" width=40px src="https://cdn2.iconfinder.com/data/icons/designer-skills/128/code-programming-javascript-software-develop-command-language-256.png" alt="photoJs" />
 <img align="left" width=40px src="https://cdn0.iconfinder.com/data/icons/logos-brands-in-colors/128/react-256.png" alt="photoReact" />
   <img align="left" width=40px  src="https://img.icons8.com/color/452/redux.png" alt="photoReact" />
-     <img align="left" width=40px src="https://pics.freeicons.io/uploads/icons/png/9267873881551942642-512.png" alt="photoJs" />
    <img align="left" width=40px src="https://img.icons8.com/dusk/344/webpack.png" alt="photoJs" />
      <img align="left" width=40px src="https://cdn4.iconfinder.com/data/icons/logos-brands-in-colors/3000/figma-logo-256.png" alt="photoJs" />
       <img align="left" width=40px src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/postman-icon.svg" alt="photoJs" />
