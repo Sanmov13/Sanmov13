@@ -22,5 +22,5 @@
 
 ### Мои проекты:
 
-- Продажа ПК с возможностью сборки
-- Сайт ландшафтного дизайна
+- Продажа ПК с возможностью сборки <a href="https://github.com/Sanmov13/team-MadePC-Front">Frontend<a/> || <a href="https://github.com/Sanmov13/team-madePC-back">Backend<a/>
+- Сайт ландшафтного дизайна <a href="https://github.com/Sanmov13/project-forest-front">Frontend<a/> || <a href="https://github.com/Sanmov13/project-forest-back">Backend<a/>
