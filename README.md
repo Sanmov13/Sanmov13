@@ -22,10 +22,11 @@
 
 <ul>
   <li>HTML5, CSS3, JavaScript ES6</li>
-  <li>React</li>
+  <li>React, TypeScript</li>
   <li>React Redux</li>
   <li>React router dom v6</li>
   <li>Webpack</li>
+  <li>Redux-toolkit</li>
   <li>Postman</li>
   <li>MongoDB</li>
   <li>ExpressJS, NodeJS, Mongoose</li>
