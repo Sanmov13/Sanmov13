@@ -36,4 +36,4 @@
 
 - Продажа ПК с возможностью сборки <a href="https://github.com/Sanmov13/team-MadePC-Front">Frontend<a/> || <a href="https://github.com/Sanmov13/team-madePC-back">Backend<a/>
 - Сайт ландшафтного дизайна <a href="https://github.com/Sanmov13/project-forest-front">Frontend<a/> || <a href="https://github.com/Sanmov13/project-forest-back">Backend<a/>
--<a href="https://github.com/Sanmov13/CodeX">Chat on OPENAI API<a/>
+- Chat on OPENAI API <a href="https://github.com/Sanmov13/CodeX">Chat<a/>
