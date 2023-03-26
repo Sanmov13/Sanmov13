@@ -36,6 +36,3 @@
 
 - Продажа ПК с возможностью сборки <a href="https://github.com/Sanmov13/team-MadePC-Front">Frontend<a/> || <a href="https://github.com/Sanmov13/team-madePC-back">Backend<a/>
 - Сайт ландшафтного дизайна <a href="https://github.com/Sanmov13/project-forest-front">Frontend<a/> || <a href="https://github.com/Sanmov13/project-forest-back">Backend<a/>
-- Chat on OPENAI API <a href="https://github.com/Sanmov13/CodeX">Chat<a/>
-- Адаптивный лендинг <a href="https://modern-ui-peach.vercel.app/">Demo<a/>
-- Youtube clone app <a href="https://github.com/Sanmov13/Youtube_clone">Code<a/> || <a href="https://sweet-pastelito-81385d.netlify.app/">Demo<a/>
